@@ -10,7 +10,7 @@ require("./views/search");
 require("./views/my");
 require("./views/guide");
 require("./views/detail");
-
+require("./views/learngit");
 SPA.config({
 	indexView:"index"
 })
